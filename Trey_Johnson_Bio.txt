@@ -1,0 +1,3 @@
+Personal Bio
+
+My name is Trey Johnson, and I am a Computer Science and Cybersecurity major at Marietta College. I have experience working with programming languages such as C, C#, Python, JavaScript, HTML, CSS, PHP, and SQL. I would bring several strengths to a software development group, including problem-solving, teamwork, and adaptability. I am good at breaking down complicated problems into smaller tasks and working through them until I find a solution. I also work well with others and am comfortable communicating ideas that non-technical members may not know, asking questions, and helping team members when needed. 
