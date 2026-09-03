@@ -1,0 +1,4 @@
+I am Corey Verkouteren, a Computer Science major with minors in Math and Psychology. 
+My interest in research has led to me being stronger in problem-solving, data analysis, and some machine learning techniques.
+I am also generally pretty adaptable to new languages and projects.
+Lastly, I have a little bit of experience making web apps and a tiny bit working with the .NET environment making Windows applications.
